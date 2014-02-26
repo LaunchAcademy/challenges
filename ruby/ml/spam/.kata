@@ -1,0 +1,4 @@
+---
+name: Ham or Spam?
+difficulty: 3
+test_runner: rspec
