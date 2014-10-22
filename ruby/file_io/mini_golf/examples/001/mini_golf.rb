@@ -16,7 +16,7 @@ def display_scores(file_path)
   end
 
   sorted_scores = scores.sort_by do |score|
-    score['total']
+    [score['total'], score['Name']]
   end
 
   puts "Mini Golf Scores\n\n"

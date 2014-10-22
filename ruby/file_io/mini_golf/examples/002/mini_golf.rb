@@ -39,6 +39,6 @@ end
 
 def sort_scores(scores)
   scores.sort_by do |score|
-    score['total']
+    [score['total'], score['Name']]
   end
 end

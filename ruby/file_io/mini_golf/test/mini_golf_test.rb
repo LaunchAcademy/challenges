@@ -10,8 +10,8 @@ Mini Golf Scores
 1. Eric with 21 strokes.
 2. Helen with 22 strokes.
 3. Dan with 26 strokes.
-4. Jason with 27 strokes.
-5. Adam with 27 strokes.
+4. Adam with 27 strokes.
+5. Jason with 27 strokes.
 6. Sam with 30 strokes.
 7. Bill with 31 strokes.
 8. Evan with 32 strokes.
